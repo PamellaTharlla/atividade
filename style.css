@@ -1,7 +1,7 @@
 *{
     background-color: rgb(125, 119, 124);
     color: rgb(0, 0, 0);
-    font-style: oblique;
+    font-style: arial;
    
     
     
@@ -54,7 +54,7 @@ ul{
 }
 
 
-img{
+header img{
     
     width: 150px;
     height: 150px;
@@ -73,6 +73,17 @@ img{
     align-items: center;
 }
 
-
+footer img{
+    
+    width: 80px;
+    height: 80px;
+    border-radius: 60%;
+    border:5px solid rgb(0, 0, 0);
+}
+  
+    
+   
+   
+   
     
 
